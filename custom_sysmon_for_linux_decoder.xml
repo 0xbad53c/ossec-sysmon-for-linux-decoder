@@ -4,6 +4,8 @@
 	Based on event specifications in:
 	https://github.com/OTRF/OSSEM-DD/tree/main/linux/sysmon/events
 
+	and a post of dariomen in the Wazuh Slack community
+
 -->
 
 <decoder name="sysmon-linux">
